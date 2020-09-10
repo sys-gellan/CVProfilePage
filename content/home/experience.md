@@ -21,8 +21,8 @@ date_format = "Jan 2006"
   title = "Post-Doctoral Research Associate"
   company = "University of Sheffield"
   company_url = ""
-  date_start = ""
-  date_end = ""
+  date_start = "2018-10-16"
+  date_end = "2020-01-03"
   description = """
   Responsibilities include:
 
@@ -35,16 +35,8 @@ date_format = "Jan 2006"
   title = "Consultant Scientist"
   company = "University of Sheffield"
   company_url = ""
-  date_start = ""
-  date_end = ""
-  description = """Consultant scientist for delivering research outcomes for an external company on short turn arounds."""
-
-[[experience]]
-    title = "Graduate Teaching Assistant"
-    company = "University of Sheffield"
-    company_url = ""
-    date_start = ""
-    date_end = ""
-    description = """Facilitating small group learning for undergraduate lab sessions and facilitating problem sessions for magnetic MSc courses."""
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++

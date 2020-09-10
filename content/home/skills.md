@@ -32,6 +32,10 @@ subtitle = ""
   name = "Micromagnetic Simulations"
   description = ""
 
+[[Feature]]
+icon = "automation"
+name="LabView"
+description=""
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

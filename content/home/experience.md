@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   date_start = "2018-10-16"
   date_end = "2020-01-03"
   description = """
+  Magnetic Resonance of Semiconductor Quantum Dots.
   Responsibilities include:
 
   * Low temperature optical and magnetic measurements
@@ -37,14 +38,14 @@ date_format = "Jan 2006"
   company_url = ""
   date_start = "2017-10-01"
   date_end = "2017-10-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Consultant scientist for delivering research outcomes for an external company on short turn arounds."""
 
-  [[experience]]
+ [[experience]]
       title = "Graduate Teaching Assistant"
       company = "University of Sheffield"
       company_url = ""
       date_start = "2013-11-01"
       date_end = "2017-10-30"
-      description = """Consultant scientist for delivering research outcomes for an external company on short turn arounds."""
+      description = """Facilitating small group learning for undergraduate lab sessions and facilitating problem sessions for magnetic MSc courses."""
 
 +++

@@ -2,42 +2,35 @@
 title: Dr Thomas James Broomhall
 role: ""
 avatar_filename: avatar.jpg
-organizations:
-  - name: Stanford University
-    url: ""
+organizations: []
 superuser: true
 authors:
   - admin
 bio: My research interests range from nanomagnetic systems to electron spin
   resonance techniques
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Nanomagnetics
+  - Spin Phenomena
+  - Magnetic Resonance
+  - ""
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=Sk_EQ_QAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/sys-gellan
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Nanomagnetism
+      institution: University of Sheffield
+      year: 2018
+    - course: BSc in Chemistry with Forensic Science
+      institution: Keele University
+      year: 2013
 email: ""
 user_groups:
   - Researchers

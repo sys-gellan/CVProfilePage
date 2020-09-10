@@ -12,7 +12,7 @@ interests:
   - Nanomagnetics
   - Spin Phenomena
   - Magnetic Resonance
-  - ""
+  - Semiconductor Devices
 social:
   - icon: envelope
     icon_pack: fas

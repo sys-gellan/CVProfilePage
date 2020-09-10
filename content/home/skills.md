@@ -33,8 +33,8 @@ subtitle = ""
   description = ""
 
 [[feature]]
-  icon = "automation"
-  icon_pack = "custom"
+  icon = "cogs"
+  icon_pack = "fas"
   name = "LabView"
   description= ""
 

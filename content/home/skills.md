@@ -15,7 +15,7 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Python"
   description = ""
@@ -27,7 +27,7 @@ subtitle = ""
   description = ""  
 
 [[feature]]
-  icon = "fa-magnet"
+  icon = "magnet"
   icon_pack = "fas"
   name = "Micromagnetic Simulations"
   description = ""
@@ -35,8 +35,9 @@ subtitle = ""
 [[feature]]
   icon = "automation"
   icon_pack = "custom"
-  name="LabView"
-  description=""
+  name = "LabView"
+  description= ""
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

@@ -35,8 +35,16 @@ date_format = "Jan 2006"
   title = "Consultant Scientist"
   company = "University of Sheffield"
   company_url = ""
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  date_start = "2017-10-01"
+  date_end = "2017-10-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
+
+  [[experience]]
+      title = "Graduate Teaching Assistant"
+      company = "University of Sheffield"
+      company_url = ""
+      date_start = "2013-11-01"
+      date_end = "2017-10-30"
+      description = """Consultant scientist for delivering research outcomes for an external company on short turn arounds."""
 
 +++

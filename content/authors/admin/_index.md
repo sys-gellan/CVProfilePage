@@ -1,11 +1,11 @@
 ---
-title: Dr Thomas James Broomhall
-role: ""
-avatar_filename: avatar.jpg
 organizations: []
 superuser: true
 authors:
   - admin
+title: Dr Thomas James Broomhall
+role: ""
+avatar_filename: avatar.jpg
 bio: My research interests range from nanomagnetic systems to electron spin
   resonance techniques
 interests:
@@ -23,6 +23,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/sys-gellan
+  - link: https://www.linkedin.com/in/thomasbroomhall/
+    icon_pack: fab
+    icon: linkedin
 education:
   courses:
     - course: PhD in Nanomagnetism

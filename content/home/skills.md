@@ -38,6 +38,18 @@ subtitle = ""
   name = "LabView"
   description= ""
 
+[[feature]]
+    icon = "chart-pie"
+    icon_pack = "fas"
+    name = "MatLab"
+    description= ""
+
+[[feature]]
+  icon = "vials"
+  icon_pack = "fas"
+  name = "Sample Fabrication"
+  description= ""
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

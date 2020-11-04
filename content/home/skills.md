@@ -50,6 +50,12 @@ subtitle = ""
   name = "Sample Fabrication"
   description= ""
 
+[[feature]]
+    icon = "fa-atom"
+    icon_pack = "fas"
+    name = "Magnetic Resonance"
+    description=""
+
 # Uncomment to use emoji icons.
 # [[feature]]
 #  icon = ":smile:"

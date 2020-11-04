@@ -40,6 +40,6 @@ user_groups:
   - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+TJ Broomhall is a committed and aspiring researcher whose PhD and Post-doctoral experiences have developed key skills for both physics and material science engineering, building upon a strong chemistry foundation. He is a highly motivated individual in driving forward both team-based and personal research, with significant expertise in the development of new instrumentation and analytical processes. Throughout his research TJ Broomhall has worked in strong inter-disciplinary areas covering engineering, physics and chemistry, with his core work involving a focus on the design and development of measurement devices for magnetic resonance and nanomagnetic structures.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Alongside his research experiences, he also has gained significant experience with project management in both sales and business development roles, as well involvement in both national and international scientific collaborations. These opportunities have given him a wealth of hands-on experience of project management, networking across wider groups, and involvement in problem solving when issues have arisen.

@@ -51,7 +51,7 @@ subtitle = ""
   description= ""
 
 [[feature]]
-    icon = "fa-atom"
+    icon = "atom"
     icon_pack = "fas"
     name = "Magnetic Resonance"
     description=""
